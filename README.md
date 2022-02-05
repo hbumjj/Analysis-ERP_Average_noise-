@@ -8,12 +8,12 @@ method to remove noise using Synchronizing averaging
 
 
 
-EP_data2.txt : Data measuring ERP for visual stimulation 
+- EP_data2.txt : Data measuring ERP for visual stimulation 
 
-Each trial(measurment by stimulation) consist of 2.048 sec 
-(1.024 pre-stimulation and 1.024 post-stimulation)
+- Each trial(measurment by stimulation) consist of 2.048 sec 
+    (1.024 pre-stimulation and 1.024 post-stimulation)
 
-remove noise using Synchronizing-average (Ensemble averaging)
+- remove noise using Synchronizing-average (Ensemble averaging)
 
 <method>
   
